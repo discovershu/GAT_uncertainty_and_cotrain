@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://sh257533@ceashpc-12.rit.albany.edu:22/network/rit/lab/ceashpc/xujiang/venv/tensorflow_cpu/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/network/rit/lab/ceashpc/shuhu/GAT_uncertainty" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://sh257533@ceashpc-11.rit.albany.edu:22/network/rit/lab/ceashpc/shuhu/anaconda3/envs/hsenv3.5/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/network/rit/lab/ceashpc/shuhu/GAT_uncertainty" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://sh257533@ceashpc-06.rit.albany.edu:22/network/rit/lab/ceashpc/shuhu/anaconda3/envs/hsenv3.5/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/network/rit/lab/ceashpc/shuhu/GAT_uncertainty" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://sh257533@ceashpc-02.rit.albany.edu:22/network/rit/lab/ceashpc/xujiang/venv/tensorflow_cpu/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/network/rit/lab/ceashpc/shuhu/GAT_uncertainty" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://sh257533@ceashpc-03.rit.albany.edu:22/network/rit/lab/ceashpc/xujiang/venv/tensorflow_cpu/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/network/rit/lab/ceashpc/shuhu/GAT_uncertainty" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://sh257533@ceashpc-12.rit.albany.edu:22/network/rit/lab/ceashpc/shuhu/anaconda3/envs/hsenv3.5/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/network/rit/lab/ceashpc/shuhu/GAT_uncertainty" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
